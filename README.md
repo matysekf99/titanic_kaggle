@@ -11,4 +11,4 @@ J'ai intégré des modèles de machine learning afin d'améliorer la précision 
    
     
 De plus, j'ai appris à utiliser les bibliothèques Python dédiées à la manipulation de données ainsi que Jupyter Notebook pour mener à bien ce projet.      
-Il est donc normal que la présentation et la réalisation ne soient pas parfaites et soient un peu longues.      
+
